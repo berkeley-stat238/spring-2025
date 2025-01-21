@@ -19,7 +19,7 @@ subtitle: "UC Berkeley, Spring 2025"
 
 :::{card}
 :header: **Alexander Strang**
-![Alexander Strang](images/Alex_Strang.jpg)
+![Alexander Strang](images/Alex_Strang_cropped_in.jpg)
 
 +++
 
