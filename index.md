@@ -29,15 +29,15 @@ subtitle: "UC Berkeley, Spring 2025"
 :::
 
 :::{card}
-:header: **GSI Name**
+:header: **Zhexiao Lin**
 
-![GSI Name](images/firefly-gsi.jpg)
+![Zhexiao Lin](images/Zhexiao_Lin.jpg)
 
 +++
 
-* **Office Hours**: MW 2-3pm (Evans 3137)
-* **Pronouns**: She/Her
-* [gsi-name@berkeley.edu](mailto:gsi-name@berkeley.edu)
+* **Office Hours**: W 10-11 am, 4:00 - 5:00 pm  (TBD)
+* **Pronouns**: He/Him
+* [zhexiaolin@berkeley.edu](mailto:zhexiaolin@berkeley.edu)
 
 :::
 

@@ -1,6 +1,6 @@
 - week: 1
   days:
-    - date: 'Aug 24'
+    - date: 'Jan 21'
       items:
         - type: 'Lecture'
           id: '1'
@@ -13,7 +13,7 @@
           id: '1'
           name: Lecture Participation 1
           href: 'https://ds100.org/fa23/lecture/lec01'
-    - date: 'Aug 25'
+    - date: 'Jan 23'
       items:
         - type: 'Lab'
           id: '1'
@@ -29,7 +29,7 @@
           href: 'https://ds100.org/fa23/lecture/lec01'
 - week: 2
   days:
-    - date: 'Aug 29'
+    - date: 'Jan 28'
       items:
         - type: 'Lecture'
           id: '2'
