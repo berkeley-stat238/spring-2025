@@ -9,7 +9,7 @@ Jump to:
 - [Instructors](#instructors)
   - [Office Hours](#oh)
 - [Class Overview](#overview)
-  - [Description](#description)
+  - [Course Description](#description)
   - [Prerequisites](#prerequisites)
   - [Course Philosophy](#philosophy)
   - [Teaching Philosophy](#struggle)
@@ -36,7 +36,7 @@ Jump to:
 (overview)=
 # Class Overview
 
-(description) =
+(description)=
 ## Course Description
 
 Bayesian statistics is a collection of methods rooted in the use of Bayes rule to update prior beliefs given observed evidence. These center on recovering, then using, a posterior distribution. In this class we will focus on the three major steps needed to perform Bayesian data analysis.
@@ -72,7 +72,7 @@ My goal is to provide a welcoming, collaborative learning environment for explor
 **Lecture:** T, Th (11:00 am - 12:30 on Berkeley time) 01/21/2025 - 05/01/2025. Cory 277.
 **Lab:** W 9:00 - 10:00 am, 11:00 am - 12:00 by section (01/30 - 04/30/2025). Evans 334.
 
-(text) = 
+(text)= 
 ## Materials (Text)
 
 **Bayesian Data Analysis** by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. *Third Edition*. Available online for free at: (http://www.stat.columbia.edu/~gelman/book/)[http://www.stat.columbia.edu/~gelman/book/] and by request as a pdf (email (alexstrang@berkeley.edu)[alexstrang@berkeley.edu]). 
