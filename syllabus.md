@@ -24,16 +24,14 @@ Jump to:
 (Instructors)=
 # Instructors
 
-**Professor:** Alexander Strang  [alexstrang@berkeley.edu](alexstrang@berkeley.edu)
-
-**TA:** Zhexiao Lin [zhexiaolin@berkeley.edu](zhexiaolin@berkeley.edu)
+- **Professor:** Alexander Strang  [alexstrang@berkeley.edu](alexstrang@berkeley.edu)
+- **TA:** Zhexiao Lin [zhexiaolin@berkeley.edu](zhexiaolin@berkeley.edu)
 
 (oh)=
 ## Office Hours
 
-**Professor:** Tuesdays 1:00 - 2:00 pm, Fridays from 2 - 3:30. Evans 305. 
-
-**TA:** Wednesdays 10:00 - 11:00 am in Evans 334 (same as lab section), 4:00 - 5:00 pm. Location TBD. 
+- **Professor:** Tuesdays 1:00 - 2:00 pm, Fridays from 2 - 3:30. Evans 305. 
+- **TA:** Wednesdays 10:00 - 11:00 am in Evans 334 (same as lab section), 4:00 - 5:00 pm. Location TBD. 
 
 (Class Overview)=
 # Class Overview
