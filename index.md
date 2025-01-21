@@ -18,15 +18,14 @@ subtitle: "UC Berkeley, Spring 2025"
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Instructor Name**
-
-![Instructor Name](images/firefly-instructor.jpg)
+:header: **Alexander Strang**
+![Alexander Strang](images/Alex_Strang.jpg)
 
 +++
 
-* **Office Hours**: Tue 11-12pm (Evans 4019)
-* **Pronouns**: She/Her
-* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
+* **Office Hours**: Tues. 1:00 - 2:00 pm, Fri. 2:00 - 3:30 pm. (Evans 305)
+* **Pronouns**: He/Him
+* [alexstrang@berkeley.edu](mailto:alexstrang@berkeley.edu)
 :::
 
 :::{card}

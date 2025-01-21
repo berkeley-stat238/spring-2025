@@ -8,7 +8,7 @@ project:
   license:
     # code: MIT
     content: CC-BY-4.0
-  github: https://github.com/berkeley-cdss/course-site-myst
+  github: https://github.com/berkeley-stat238/spring-2025
   # bibliography: []
   jupyter:
     lite: true
@@ -29,11 +29,11 @@ site:
     logo: 'stat_bear.png'
   nav: []
   actions:
-    #- title: Ed
-    #  url: https://edstem.org
+    - title: Ed
+      url: https://edstem.org/us/courses/74615/discussion
     #- title: DataHub
     #  url: https://datahub.berkeley.edu
-    #- title: Gradescope
-    #  url: https://www.gradescope.com/courses/564792
+    - title: Gradescope
+      url: https://www.gradescope.com/courses/961711
   domains:
     - stat238.berkeley.edu
