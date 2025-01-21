@@ -6,7 +6,7 @@ title: "Syllabus"
 
 Jump to:
 
-- [Instructors](#Instructors)
+- [Instructors](#instructors)
   - [Office Hours](#oh)
 - [Class Overview](#overview)
   - [Description](#description)
@@ -21,7 +21,7 @@ Jump to:
 - [Policies](#policies)
 
 
-(Instructors)=
+(instructors)=
 # Instructors
 
 - **Professor:** Alexander Strang  [alexstrang@berkeley.edu](alexstrang@berkeley.edu)
@@ -33,10 +33,10 @@ Jump to:
 - **Professor:** Tuesdays 1:00 - 2:00 pm, Fridays from 2 - 3:30. Evans 305. 
 - **TA:** Wednesdays 10:00 - 11:00 am in Evans 334 (same as lab section), 4:00 - 5:00 pm. Location TBD. 
 
-(Class Overview)=
+(overview)=
 # Class Overview
 
-(Description) =
+(description) =
 ## Course Description
 
 Bayesian statistics is a collection of methods rooted in the use of Bayes rule to update prior beliefs given observed evidence. These center on recovering, then using, a posterior distribution. In this class we will focus on the three major steps needed to perform Bayesian data analysis.
