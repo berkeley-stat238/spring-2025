@@ -31,7 +31,7 @@ Jump to:
 ## Office Hours
 
 - **Professor:** Tuesdays 1:00 - 2:00 pm, Fridays from 2 - 3:30. Evans 305.
-- **TA:** Wednesdays 10:00 - 11:00 am in Evans 334 (same as lab section), 4:00 - 5:00 pm. Location TBD.
+- **TA:** Wednesdays 10:00 - 11:00 am in Evans 334 (same as lab section), 4:00 - 5:00 pm in Evans 446.
 
 (overview)=
 # Class Overview
