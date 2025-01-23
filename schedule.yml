@@ -4,32 +4,184 @@
       items:
         - type: 'Lecture'
           id: '1'
-          name: Introduction
-          href: './test.pdf'
+          name: Fundamentals of Bayesian Inference I
           auxil:
             id: 'Note 1'
             href: './unit1.html'
-        - type: 'Participation'
-          id: '1'
-          name: Lecture Participation 1
-          href: 'https://ds100.org/fa23/lecture/lec01'
     - date: 'Jan 23'
       items:
-        - type: 'Lab'
-          id: '1'
-          name: Prerequisite Coding (due Aug 29)
-          href: 'https://ds100.org/fa23/lecture/lec01'
-        - type: 'Homework'
-          id: '1A'
-          name: Plotting and Permutation Test (due Aug 31)
-          href: 'https://ds100.org/fa23/lecture/lec01'
-        - type: 'Homework'
-          id: '1B'
-          name: Prerequisite Math (due Aug 31)
-          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Lecture'
+          id: '2'
+          name: Fundamentals of Bayesian Inference II
 - week: 2
   days:
     - date: 'Jan 28'
+      items:
+        - type: 'Lecture'
+          id: '3'
+          name: Asymptotics and connections to non-Bayesian approaches
+    - date: 'Jan 29'
+      items:
+        - type: 'Lab'
+          id: '1'
+          name: Bayesian pipeline for a Beta-Binomial model
+    - date: 'Jan 30'
+      items:
+        - type: 'Lecture'
+          id: '4'
+          name: Bayesian or Frequentist
+- week: 3
+  days:
+    - date: 'Feb 4'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 5'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 6'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+- week: 4
+  days:
+    - date: 'Feb 11'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 12'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 13'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+- week: 5
+  days:
+    - date: 'Feb 18'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 19'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 20'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+- week: 5
+  days:
+    - date: 'Feb 18'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 19'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Pandas 1
+          href: 'https://ds100.org/fa23/lecture/lec01'
+        - type: 'Participation'
+          id: '2'
+          name: Lecture Participation 2
+          href: 'https://ds100.org/fa23/lecture/lec01'
+          auxil:
+            id: 'Note 2'
+            href: './unit2.html'
+    - date: 'Feb 20'
       items:
         - type: 'Lecture'
           id: '2'
