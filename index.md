@@ -35,7 +35,7 @@ subtitle: "UC Berkeley, Spring 2025"
 
 +++
 
-* **Office Hours**: W 10-11 am, 4:00 - 5:00 pm  (TBD)
+* **Office Hours**: W 10-11 am (Evans 334), 4:00 - 5:00 pm (Evans 446).
 * **Pronouns**: He/Him
 * [zhexiaolin@berkeley.edu](mailto:zhexiaolin@berkeley.edu)
 
