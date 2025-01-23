@@ -5,25 +5,3 @@
         - type: 'Lecture'
           id: '1'
           name: Fundamentals of Bayesian Inference I
-    - date: 'Jan 23'
-      items:
-        - type: 'Lecture'
-          id: '2'
-          name: Fundamentals of Bayesian Inference II
-- week: 2
-  days:
-    - date: 'Jan 28'
-      items:
-        - type: 'Lecture'
-          id: '3'
-          name: Asymptotics and connections to non-Bayesian approaches
-    - date: 'Jan 29'
-      items:
-        - type: 'Lab'
-          id: '1'
-          name: Bayesian pipeline for a Beta-Binomial model
-    - date: 'Jan 30'
-      items:
-        - type: 'Lecture'
-          id: '4'
-          name: Bayesian or Frequentist
