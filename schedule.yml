@@ -5,9 +5,6 @@
         - type: 'Lecture'
           id: '1'
           name: Fundamentals of Bayesian Inference I
-          auxil:
-            id: 'Note 1'
-            href: './unit1.html'
     - date: 'Jan 23'
       items:
         - type: 'Lecture'
