@@ -5,6 +5,7 @@
         - type: 'Lecture'
           id: '1'
           name: Fundamentals of Bayesian Inference 
+          href: 'https://edstem.org/us/courses/74615/discussion/6002007'
         - type: 'Assignment'
           id: '1'
           name: Reading
@@ -20,6 +21,7 @@
         - type: 'Lecture'
           id: '1'
           name: Binomial Likelihoods and Beta Priors (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6016270'
 - week: 2
   days:
     - date: 'Jan 28'
@@ -27,14 +29,17 @@
         - type: 'Lecture'
           id: '2'
           name: Binomial Likelihoods and Beta Priors (II)
+          href: 'https://edstem.org/us/courses/74615/discussion'
     - date: 'Jan 29'
       items:
         - type: 'Lab'
           id: '2'
           name: Binomial Likelihoods and Beta Priors
+          href: 'https://edstem.org/us/courses/74615/discussion'
     - date: 'Jan 30'
       items:
         - type: 'Lecture'
           id: '2'
           name: Consistency, Asymptotics, and Bayesian Estimation
+          href: 'https://edstem.org/us/courses/74615/discussion'
 
