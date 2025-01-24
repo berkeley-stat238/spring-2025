@@ -10,13 +10,14 @@
           name: Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6001932'
     - date: 'Jan 22'
-      -type: 'Assignment'
-        id: '1'
-        name: Introductory Poll
-        href: 'https://forms.gle/U7wA3MdktPo4Xbm79'
+      items:
+       - type: 'Assignment'
+         id: '1'
+         name: Introductory Poll
+         href: 'https://forms.gle/U7wA3MdktPo4Xbm79'
     - date: 'Jan 23'
-    items:
-        -type: 'Lecture'
+      items:
+        - type: 'Lecture'
          id: '1'
          name: Binomial Likelihoods and Beta Priors (I)
 - week: 2
