@@ -6,9 +6,9 @@
           id: '1'
           name: Fundamentals of Bayesian Inference 
           href: 'https://edstem.org/us/courses/74615/discussion/6002007'
-        - type: 'Week 1 Reading'
+        - type: 'Reading'
           id: '1'
-          name: Reading
+          name: Week 1 Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6001932'
     - date: 'Jan 22'
       items:
