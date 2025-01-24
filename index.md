@@ -51,10 +51,6 @@ subtitle: "UC Berkeley, Spring 2025"
 
 # Schedule
 
-You can have freestyle HTML with colors and styles. <span style="color: blue;">For example, this text is blue.</span>
-
-The table below is rendered by the `schedule` plugin, contributed by [rowanc1](https://github.com/rowanc1). It is declared in `myst.yml` and contained within `schedule.mjs`. It reads in the data in `schedule.yml` and converts it into a table.
-
 :::{schedule} ./schedule.yml
 
 :::
