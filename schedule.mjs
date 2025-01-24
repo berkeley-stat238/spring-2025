@@ -45,6 +45,16 @@ const classes = {
     color: 'white',
     padding: 5
   },
+  reading: { background: '#008080',
+    borderRadius: 8,
+    color: 'white',
+    padding: 5
+  },
+  assignment: { background: '#FF7F50',
+    borderRadius: 8,
+    color: 'white',
+    padding: 5
+  },
 };
 
 const scheduleDirective = {
