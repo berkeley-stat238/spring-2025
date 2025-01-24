@@ -4,4 +4,36 @@
       items:
         - type: 'Lecture'
           id: '1'
-          name: Fundamentals of Bayesian Inference I
+          name: Fundamentals of Bayesian Inference 
+        - type: 'Assignment'
+          id: '1'
+          name: Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6001932'
+    - date: 'Jan 22'
+      -type: 'Assignment'
+        id: '1'
+        name: Introductory Poll
+        href: 'https://forms.gle/U7wA3MdktPo4Xbm79'
+    - date: 'Jan 23'
+    items:
+        -type: 'Lecture'
+         id: '1'
+         name: Binomial Likelihoods and Beta Priors (I)
+- week: 2
+  days:
+    - date: 'Jan 28'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Binomial Likelihoods and Beta Priors (II)
+    - date: 'Jan 29'
+      items:
+        - type: 'Lab'
+          id: '2'
+          name: Binomial Likelihoods and Beta Priors
+    - date: 'Jan 30'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: Consistency, Asymptotics, and Bayesian Estimation
+
