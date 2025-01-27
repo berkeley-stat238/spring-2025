@@ -26,20 +26,20 @@
   days:
     - date: 'Jan 28'
       items:
-        - type: 'Placeholder'
+        - type: 'Lecture'
           id: '3'
           name: Binomial Likelihoods and Beta Priors (II)
-          href: 'https://edstem.org/us/courses/74615/discussion'
+          href: 'https://edstem.org/us/courses/74615/discussion/6044228'
     - date: 'Jan 29'
       items:
-        - type: 'Placeholder'
+        - type: 'Lab'
           id: '1'
           name: Lab on Binomial Likelihoods and Beta Priors
-          href: 'https://edstem.org/us/courses/74615/discussion'
+          href: 'https://edstem.org/us/courses/74615/discussion/6044246'
     - date: 'Jan 30'
       items:
-        - type: 'Placeholder'
+        - type: 'Lecture'
           id: '4'
           name: Consistency, Asymptotics, and Bayesian Estimation
-          href: 'https://edstem.org/us/courses/74615/discussion'
+          href: 'https://edstem.org/us/courses/74615/discussion/6044233'
 
