@@ -34,11 +34,23 @@
           id: '2'
           name: Week 2 Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6042958'
+        - type: 'Placeholder'
+          id: '1'
+          name: Homework 1
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: '1'
+          name: Project Mini 1
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: '1'
+          name: Quiz 1 Practice
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Jan 29'
       items:
         - type: 'Lab'
           id: '1'
-          name: Lab on Binomial Likelihoods and Beta Priors
+          name: Binomial Likelihoods and Beta Priors
           href: 'https://edstem.org/us/courses/74615/discussion/6044246'
     - date: 'Jan 30'
       items:
@@ -46,4 +58,28 @@
           id: '4'
           name: Consistency, Asymptotics, and Bayesian Estimation
           href: 'https://edstem.org/us/courses/74615/discussion/6044233'
+week: 3
+  days:
+    - date: 'Feb 04'
+      items:
+        - type: 'Placeholder'
+          id: '5'
+          name: Why Bayesian? (Decision Theory Optimal)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: '2'
+          name: Week 3 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Feb 05'
+      items:
+        - type: 'Placeholder'
+          id: '2'
+          name: Lab on Bayesian Decision Theory
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Feb 06'
+      items:
+        - type: 'Placeholder'
+          id: '6'
+          name: Why Bayesian? (Information Theory Optimal (Search, Coding, Compression))
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 
