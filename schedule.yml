@@ -88,7 +88,7 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 4
   days:
-    - date: 'Feb 04'
+    - date: 'Feb 11'
       items:
         - type: 'Placeholder'
           id: ' '
@@ -113,4 +113,56 @@
         - type: 'Placeholder'
           id: ' '
           name: Conjugate Modeling (II) - Exponential Families and Unknown Scale Parameters
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 5
+  days:
+    - date: 'Feb 18'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Conjugate Modeling (III) - Gaussian Processes
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 5 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Feb 19'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Bayesian Optimization and Surrogate Modeling
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Feb 20'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Nonconjugate Modeling (I) - Empirical Priors and GLM's
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 3 - Conjugate Models
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 6
+  days:
+    - date: 'Feb 25'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Nonconjugate Modeling (II) - Regularization and Sparsity
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 6 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Feb 26'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Bayesian Logistic Regression
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Feb 27'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Nonconjugate Modeling (III) - Hierarchical Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
