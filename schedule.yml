@@ -34,6 +34,18 @@
           id: '2'
           name: Week 2 Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6042958'
+        - type: 'Placeholder'
+          id: '1'
+          name: Homework 1
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: '1'
+          name: Project Mini 1
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: '1'
+          name: Quiz 1 Practice
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Jan 29'
       items:
         - type: 'Lab'
