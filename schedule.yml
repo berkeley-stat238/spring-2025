@@ -166,3 +166,31 @@
           id: ' '
           name: Nonconjugate Modeling (III) - Hierarchical Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 7
+  days:
+    - date: 'Mar 04'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (I) - Bayesian Point Estimation (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 7 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Mar 05'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Bayesian Optimization and Surrogate Modeling
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Mar 06'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (II) - Bayesian Point Estimation (II)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 4 - Non-Conjugate Models
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
