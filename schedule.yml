@@ -30,6 +30,10 @@
           id: '3'
           name: Binomial Likelihoods and Beta Priors (II)
           href: 'https://edstem.org/us/courses/74615/discussion/6044228'
+        - type: 'Reading'
+          id: '2'
+          name: Week 2 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6042958'
     - date: 'Jan 29'
       items:
         - type: 'Lab'
