@@ -39,11 +39,11 @@
           name: Homework 1
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
-          id: '1'
+          id: ' '
           name: Project Mini 1
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
-          id: '1'
+          id: ' '
           name: Quiz 1 Practice
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Jan 29'
@@ -63,23 +63,23 @@
     - date: 'Feb 04'
       items:
         - type: 'Placeholder'
-          id: '5'
+          id: ' '
           name: Why Bayesian? (Decision Theory Optimal)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
-          id: '3'
+          id: ' '
           name: Week 3 Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 05'
       items:
         - type: 'Placeholder'
-          id: '2'
+          id: ' '
           name: Lab on Bayesian Decision Theory
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 06'
       items:
         - type: 'Placeholder'
-          id: '6'
+          id: ' '
           name: Why Bayesian? (Information Theory Optimal (Search, Coding, Compression))
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 
