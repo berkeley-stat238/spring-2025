@@ -182,7 +182,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Bayesian Optimization and Surrogate Modeling
+          name: Lab - MAP Estimation and Optimization
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Mar 06'
       items:
@@ -194,3 +194,84 @@
           id: ' '
           name: Quiz 4 - Non-Conjugate Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 8
+  days:
+    - date: 'Mar 11'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (III) - Bayesian Point Estimation (III)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 8 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Mar 12'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Sampling and Approximate Bayesian Computation
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Mar 13'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (IV) - Sampling (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 5 - Bayesian Point Estimation
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 9
+  days:
+    - date: 'Mar 18'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (V) - Sampling (II)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 9 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Mar 19'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Gibbs, Metropolis-Hastings, and Langevin Sampling
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Mar 20'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (VI) - Sampling (III)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 10
+  days:
+    - date: 'Apr 01'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (VII) - Sampling (IV)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 10 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 6 - Sampling (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 02'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Hamiltonian Monte Carlo and Ensemble Samplers
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 03'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Computation (VIII) - Sampling (V)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+
