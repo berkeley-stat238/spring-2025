@@ -42,16 +42,16 @@
           id: ' '
           name: Project Mini 1
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
-          name: Quiz 1 Practice
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Jan 29'
       items:
         - type: 'Lab'
           id: '1'
           name: Binomial Likelihoods and Beta Priors
           href: 'https://edstem.org/us/courses/74615/discussion/6044246'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 1 Practice
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Jan 30'
       items:
         - type: 'Lecture'
