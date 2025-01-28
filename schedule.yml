@@ -274,4 +274,59 @@
           id: ' '
           name: Computation (VIII) - Sampling (V)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-
+- week: 11
+  days:
+    - date: 'Apr 08'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Model Checking (I) - Posterior Predictive Checks and Coverage
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 11 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 7 - Sampling (II)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 09'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Posterior Predictive Checking in Hierarchical Models
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 10'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Model Checking (II) - Evaluating Errors in Prediction
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 12
+  days:
+    - date: 'Apr 15'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Model Checking (III) - The Evidence Returns - Empirical Bayes and Expectation-Maximization 
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 12 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 16'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Empirical Bayes and Expectation-Maximization
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 17'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Model Checking (IV) - Prior Misspecification. Sensitivity, Robusteness, and the Honest Bayesian
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 8 - Model Checking
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
