@@ -330,3 +330,51 @@
           id: ' '
           name: Quiz 8 - Model Checking
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 13
+  days:
+    - date: 'Apr 22'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Advanced Topics (I) - Variational Inference (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 13 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 23'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Coordinate Ascent Variational Inference
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 24'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Advanced Topics (II) -  Variational Inference (II)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+- week: 14
+  days:
+    - date: 'Apr 29'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Advanced Topics (III) - Variational Inference (III)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Week 13 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'Apr 30'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Lab - Stein Variational Gradient Ascent
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+    - date: 'May 01'
+      items:
+        - type: 'Placeholder'
+          id: ' '
+          name: Conclusions and Outlook
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
