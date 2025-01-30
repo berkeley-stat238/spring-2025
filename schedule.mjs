@@ -55,7 +55,7 @@ const classes = {
     color: 'white',
     padding: 5
   },
-  exercise: { background: '#fff68f',
+  exercise: { background: '#daa520',
     borderRadius: 8,
     color: 'white',
     padding: 5
