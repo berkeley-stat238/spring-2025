@@ -23,7 +23,7 @@ subtitle: "UC Berkeley, Spring 2025"
 
 +++
 
-* **Office Hours**: Tues. 1:00 - 2:00 pm, Fri. 2:00 - 3:30 pm. (Evans 305)
+* **Office Hours**: Tues. 1:00 - 2:00 pm, Fri. 2:00 - 3:00 pm. (Evans 305)
 * **Pronouns**: He/Him
 * [alexstrang@berkeley.edu](mailto:alexstrang@berkeley.edu)
 :::
