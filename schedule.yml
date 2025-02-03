@@ -70,10 +70,10 @@
           id: ' '
           name: Quiz 1 - Fundamentals of Bayesian Inference
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Reading'
+          id: '3'
           name: Week 3 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6094927'
     - date: 'Feb 05'
       items:
         - type: 'Placeholder'
