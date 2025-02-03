@@ -47,7 +47,7 @@
         - type: 'Lab'
           id: '1'
           name: Binomial Likelihoods and Beta Priors
-          href: 'https://edstem.org/us/courses/74615/discussion/6044246'
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab01%2FLab_1.ipynb&branch=main'
         - type: 'Exercise'
           id: '1'
           name: Quiz 1 Practice
