@@ -28,7 +28,7 @@ const classes = {
     color: 'white',
     padding: 5
   },
-  participation: {
+  quiz: {
     background: '#7A77B4',
     borderRadius: 8,
     color: 'white',

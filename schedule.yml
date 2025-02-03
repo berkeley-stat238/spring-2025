@@ -66,8 +66,8 @@
           id: '5'
           name: Why Bayesian? (Decision Theory Optimal)
           href: 'https://edstem.org/us/courses/74615/discussion/6095125'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Quiz'
+          id: '1'
           name: Quiz 1 - Fundamentals of Bayesian Inference
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Reading'
