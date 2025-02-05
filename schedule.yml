@@ -76,10 +76,10 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6094927'
     - date: 'Feb 05'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lab'
+          id: '2'
           name: Lab - Bayesian Decision Theory
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab02%2FLab_2.ipynb&branch=main'
     - date: 'Feb 06'
       items:
         - type: 'Lecture'
