@@ -64,7 +64,7 @@
       items:
         - type: 'Lecture'
           id: '5'
-          name: Why Bayesian? (Decision Theory Optimal)
+          name: Why Bayesian?
           href: 'https://edstem.org/us/courses/74615/discussion/6095125'
         - type: 'Quiz'
           id: '1'
@@ -84,8 +84,12 @@
       items:
         - type: 'Lecture'
           id: '6'
-          name: Why Bayesian? (Information Theory Optimal (Search, Coding, Compression))
+          name: Why Bayesian? (Decision Theory I)
           href: 'https://edstem.org/us/courses/74615/discussion/6095129'
+        - type: 'Exercise'
+          id: '1'
+          name: Quiz 2 Practice
+          href: 'https://edstem.org/us/courses/74615/discussion/6124463'
 - week: 4
   days:
     - date: 'Feb 11'
@@ -112,8 +116,8 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
-          name: Quiz 2 - Theory of Bayesian Inference
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          name: Quiz 2 - Consistency, Asymptotics, and Decisions.
+          href: 'https://edstem.org/us/courses/74615/discussion/6124463'
 - week: 5
   days:
     - date: 'Feb 18'
