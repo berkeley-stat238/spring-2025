@@ -94,12 +94,12 @@
   days:
     - date: 'Feb 11'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Conjugate Modeling (I) - Multivariate Normal w/ Unknown Mean
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '7'
+          name: Why Bayesian? (Decision Theory II)
+          href: 'https://edstem.org/us/courses/74615/discussion/6144579'
+        - type: 'Reading'
+          id: '4'
           name: Week 4 Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 12'
@@ -110,12 +110,12 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 13'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Conjugate Modeling (II) - Exponential Families and Unknown Scale Parameters
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '8'
+          name: Conjugate Modeling (I) - Multivariate Normal Models (Unknown Mean and Scale)
+          href: 'https://edstem.org/us/courses/74615/discussion/6144582'
+        - type: 'Quiz'
+          id: '2'
           name: Quiz 2 - Consistency, Asymptotics, and Decisions.
           href: 'https://edstem.org/us/courses/74615/discussion/6124463'
 - week: 5
@@ -124,7 +124,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Conjugate Modeling (III) - Gaussian Processes
+          name: Conjugate Modeling (II) - Exponential Families and Conjugate Priors
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
