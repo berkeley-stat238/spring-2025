@@ -134,13 +134,13 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Bayesian Optimization and Surrogate Modeling
+          name: Lab - Kalman Filters, Data Assimilation, and Sequential Inference
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 20'
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Nonconjugate Modeling (I) - Empirical Priors and GLM's
+          name: Conugate Models (III) - Surrogate Models, Bayesian Optimization, and Bayesian Non-parametrics
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -152,7 +152,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Nonconjugate Modeling (II) - Regularization and Sparsity
+          name: Nonconjugate Modeling (I) - Empirical Priors and GLM's
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -168,7 +168,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Nonconjugate Modeling (III) - Hierarchical Models
+          name: Nonconjugate Modeling (II) - Regularization and Sparsity
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 7
   days:
@@ -176,7 +176,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (I) - Bayesian Point Estimation (I)
+          name: Nonconjugate Modeling (III) - Hierarchical Models 
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -192,7 +192,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (II) - Bayesian Point Estimation (II)
+          name: Computation (I) - Bayesian Point Estimation (I) 
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -204,7 +204,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (III) - Bayesian Point Estimation (III)
+          name: Computation (II) - Bayesian Point Estimation (II)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
