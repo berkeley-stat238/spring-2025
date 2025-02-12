@@ -104,10 +104,11 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6144572'
     - date: 'Feb 12'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lab'
+          id: '3'
           name: Lab - Inferring Parameters of a Multivariate Normal
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab03%2FLab_3.ipynb&branch=main
+'
     - date: 'Feb 13'
       items:
         - type: 'Lecture'
@@ -132,10 +133,11 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 19'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lab'
+          id: '4'
           name: Lab - Kalman Filters, Data Assimilation, and Sequential Inference
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab04%2FLab_4.ipynb&branch=main
+'
     - date: 'Feb 20'
       items:
         - type: 'Placeholder'
