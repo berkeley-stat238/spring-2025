@@ -26,44 +26,52 @@ const classes = {
     background: '#4E66F6',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
   quiz: {
     background: '#7A77B4',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
   lab: {
     background: '#B83BC0',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
   homework: { background: '#D43B21',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
   reading: { background: '#008080',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
   assignment: { background: '#FF7F50',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
   exercise: { background: '#daa520',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
   placeholder: { background: '#BCBCBC',
     borderRadius: 8,
     color: 'white',
-    padding: 5
+    padding: 5,
+    whiteSpace: 'nowrap'
   },
 };
 
