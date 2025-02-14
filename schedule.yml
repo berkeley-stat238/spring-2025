@@ -115,14 +115,14 @@
           id: '8'
           name: Conjugate Modeling (I) - Multivariate Normal Models (Unknown Mean and Scale)
           href: 'https://edstem.org/us/courses/74615/discussion/6144582'
-        - type: 'Homework'
-          id: '2'
-          name: Homework 2
-          href: 'https://edstem.org/us/courses/74615/discussion/6168260'
         - type: 'Quiz'
           id: '2'
           name: Quiz 2 - Consistency, Asymptotics, and Decisions.
           href: 'https://edstem.org/us/courses/74615/discussion/6124463'
+        - type: 'Homework'
+          id: '2'
+          name: Homework 2
+          href: 'https://edstem.org/us/courses/74615/discussion/6168260'
         - type: 'Assignment'
           id: '2'
           name: Project Mini 2
