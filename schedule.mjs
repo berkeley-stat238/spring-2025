@@ -99,7 +99,7 @@ const scheduleDirective = {
             ])
           );
           // Put a header on the first row that spans all of them!
-          rows[0].children.unshift(tableCell(day.date, { rowspan: day.items.length }));
+          rows[0].children.unshift(tableCell([span(day.date, { width: '6em', whiteSpace: 'nowrap' })], { rowspan: day.items.length }));
           return rows;
         })
         .flat(); // turns this into a flat list of children
