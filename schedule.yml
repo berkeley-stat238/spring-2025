@@ -152,10 +152,6 @@
           id: ' '
           name: Conugate Models (III) - Surrogate Models, Bayesian Optimization, and Bayesian Non-parametrics
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
-          name: Quiz 3 - Conjugate Models
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 6
   days:
     - date: 'Feb 25'
@@ -167,6 +163,10 @@
         - type: 'Placeholder'
           id: ' '
           name: Week 6 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 3 - Conjugate Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 26'
       items:
