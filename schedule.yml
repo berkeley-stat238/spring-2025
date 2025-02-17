@@ -135,10 +135,10 @@
           id: ' '
           name: Conjugate Modeling (II) - Exponential Families and Conjugate Priors
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Reading'
+          id: '5'
           name: Week 5 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6192507'
     - date: 'Feb 19'
       items:
         - type: 'Lab'
@@ -150,7 +150,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Conugate Models (III) - Surrogate Models, Bayesian Optimization, and Bayesian Non-parametrics
+          name: Conugate Models (III) - Surrogate Models and Bayesian Optimization
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 6
   days:
