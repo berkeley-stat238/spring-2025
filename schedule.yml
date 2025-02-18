@@ -113,7 +113,7 @@
       items:
         - type: 'Lecture'
           id: '8'
-          name: Conjugate Modeling (I) - Multivariate Normal Models (Unknown Mean and Scale)
+          name: Conjugate Modeling (I) - Intro to Modeling, Multivariate Normal Models (Unknown Mean)
           href: 'https://edstem.org/us/courses/74615/discussion/6144582'
         - type: 'Quiz'
           id: '2'
@@ -131,6 +131,10 @@
   days:
     - date: 'Feb 18'
       items:
+        - type: 'Lecture'
+          id: '9.1'
+          name: Conjugate Modeling (II) - Normal Normal Models (Intuition and Unknown Scale)
+          href: 'https://bcourses.berkeley.edu/courses/1543072/external_tools/90481'
         - type: 'Placeholder'
           id: ' '
           name: Conjugate Modeling (II) - Exponential Families and Conjugate Priors
