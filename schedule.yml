@@ -132,13 +132,13 @@
     - date: 'Feb 18'
       items:
         - type: 'Lecture'
-          id: '9.1'
-          name: Conjugate Modeling (II) - Normal Normal Models (Intuition and Unknown Scale)
+          id: '9.1, 9.2'
+          name: Conjugate Modeling (II) - Normal Normal Intuition, Unknown Scale
           href: 'https://bcourses.berkeley.edu/courses/1543072/external_tools/90481'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '9.3'
           name: Conjugate Modeling (II) - Exponential Families and Conjugate Priors
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://bcourses.berkeley.edu/courses/1543072/external_tools/90481'
         - type: 'Reading'
           id: '5'
           name: Week 5 Reading
