@@ -154,7 +154,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Conugate Models (III) - Surrogate Models and Bayesian Optimization
+          name: Conjugate Models (III) - Surrogate Models and Bayesian Optimization
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 6
   days:
