@@ -156,17 +156,17 @@
 '
     - date: 'Feb 20'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Conjugate Models (III) - Surrogate Models and Bayesian Optimization
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Lecture'
+          id: '10'
+          name: Conjugate Models (III) - Working with Exponential Families
+          href: 'https://bcourses.berkeley.edu/courses/1543072/external_tools/90481'
 - week: 6
   days:
     - date: 'Feb 25'
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Nonconjugate Modeling (I) - Empirical Priors and GLM's
+          name: Nonconjugate Modeling (I) - GLM's and Bayesian Logistic Regression
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -180,13 +180,13 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Bayesian Logistic Regression
+          name: Lab - Surrogate Modeling and Bayesian Optimization
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 27'
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Nonconjugate Modeling (II) - Regularization and Sparsity
+          name: Nonconjugate Modeling (II) - Weakly Informative Models (Regularization)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 7
   days:
@@ -204,13 +204,13 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - MAP Estimation and Optimization
+          name: Lab - Bayesian Logistic Regression
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Mar 06'
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (I) - Bayesian Point Estimation (I) 
+          name: Nonconjugate Modeling (IV) - Empirical Priors and Density Estimation
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -222,7 +222,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (II) - Bayesian Point Estimation (II)
+          name: Computation (I) - Bayesian Point Estimation (I)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -232,13 +232,13 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Sampling and Approximate Bayesian Computation
+          name: Lab - MAP Estimation in Hierarchical Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Mar 13'
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (IV) - Sampling (I)
+          name: Computation (II) - Bayesian Point Estimation (II)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -250,7 +250,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (V) - Sampling (II)
+          name: Computation (III) - Sampling (I)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -260,13 +260,13 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Gibbs, Metropolis-Hastings, and Langevin Sampling
+          name: Lab - Annealing, Importance Sampling, and ABC
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Mar 20'
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (VI) - Sampling (III)
+          name: Computation (IV) - Sampling (II)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 10
   days:
@@ -274,7 +274,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (VII) - Sampling (IV)
+          name: Computation (V) - Sampling (III)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -288,13 +288,13 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Hamiltonian Monte Carlo and Ensemble Samplers
+          name: Lab - Gibbs, Metropolis-Hastings, and Langevin Sampling
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Apr 03'
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Computation (VIII) - Sampling (V)
+          name: Computation (VI) - Sampling (IV)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 11
   days:
@@ -316,7 +316,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Posterior Predictive Checking in Hierarchical Models
+          name: Lab - Hamiltonian Monte Carlo and Ensemble Samplers
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Apr 10'
       items:
@@ -340,7 +340,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Empirical Bayes and Expectation-Maximization
+          name: Lab - PPC's in Hierarchical Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Apr 17'
       items:
@@ -368,7 +368,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Coordinate Ascent Variational Inference
+          name: Lab - Empirical Bayes and Expectation-Maximization
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Apr 24'
       items:
@@ -392,7 +392,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Lab - Stein Variational Gradient Ascent
+          name: Lab - Variational Inference (CAVI and SVGD)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'May 01'
       items:
