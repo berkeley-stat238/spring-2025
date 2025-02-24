@@ -118,7 +118,7 @@
         - type: 'Quiz'
           id: '2'
           name: Quiz 2 - Consistency, Asymptotics, and Decisions.
-          href: 'https://edstem.org/us/courses/74615/discussion/6124463'
+          href: 'https://edstem.org/us/courses/74615/discussion/6188647'
         - type: 'Homework'
           id: '2'
           name: Homework 2
@@ -164,18 +164,18 @@
   days:
     - date: 'Feb 25'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '11'
           name: Nonconjugate Modeling (I) - GLM's and Bayesian Logistic Regression
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6243170'
+        - type: 'Reading'
+          id: '6'
           name: Week 6 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6243167'
+        - type: 'Quiz'
+          id: '3'
           name: Quiz 3 - Conjugate Models
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6206874'
     - date: 'Feb 26'
       items:
         - type: 'Placeholder'
@@ -184,10 +184,10 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Feb 27'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '12'
           name: Nonconjugate Modeling (II) - Weakly Informative Models (Regularization)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6243177'
 - week: 7
   days:
     - date: 'Mar 04'
