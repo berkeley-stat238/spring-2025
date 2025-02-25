@@ -220,10 +220,6 @@
           id: ' '
           name: Nonconjugate Modeling (IV) - Empirical Priors and Density Estimation
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
-          name: Quiz 4 - Non-Conjugate Models
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 8
   days:
     - date: 'Mar 11'
@@ -231,6 +227,10 @@
         - type: 'Placeholder'
           id: ' '
           name: Computation (I) - Bayesian Point Estimation (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 4 - Non-Conjugate Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -248,10 +248,6 @@
           id: ' '
           name: Computation (II) - Bayesian Point Estimation (II)
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
-          name: Quiz 5 - Bayesian Point Estimation
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 9
   days:
     - date: 'Mar 18'
@@ -259,6 +255,10 @@
         - type: 'Placeholder'
           id: ' '
           name: Computation (III) - Sampling (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Placeholder'
+          id: ' '
+          name: Quiz 5 - Bayesian Point Estimation
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
