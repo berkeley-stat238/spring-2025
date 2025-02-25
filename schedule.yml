@@ -172,6 +172,14 @@
           id: '6'
           name: Week 6 Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6243167'
+        - type: 'Assignment'
+          id: '3'
+          name: Project Mini 3
+          href: 'https://edstem.org/us/courses/74615/discussion/6251620'
+        - type: 'Assignment'
+          id: '4'
+          name: Project Mini 4
+          href: 'https://edstem.org/us/courses/74615/discussion/6251625'
         - type: 'Quiz'
           id: '3'
           name: Quiz 3 - Conjugate Models
