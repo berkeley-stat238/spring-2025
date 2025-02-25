@@ -166,7 +166,7 @@
       items:
         - type: 'Lecture'
           id: '11'
-          name: Nonconjugate Modeling (I) - GLM's and Bayesian Logistic Regression
+          name: Nonconjugate Modeling (I) - Intro to Nonconjugate Modeling
           href: 'https://edstem.org/us/courses/74615/discussion/6243170'
         - type: 'Reading'
           id: '6'
