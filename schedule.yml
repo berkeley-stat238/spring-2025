@@ -189,7 +189,7 @@
         - type: 'Lab'
           id: '5'
           name: Lab - Bayesian Optimization and Surrogate Modeling
-          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab04%2FLab_4.ipynb&branch=main'
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab05%2FLab_5.ipynb&branch=main'
     
     - date: 'Feb 27'
       items:
