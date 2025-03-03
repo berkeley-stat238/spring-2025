@@ -205,14 +205,14 @@
   days:
     - date: 'Mar 04'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '13'
           name: Nonconjugate Modeling (III) - Hierarchical Models 
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6296731'
+        - type: 'Reading'
+          id: '7'
           name: Week 7 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6296713'
     - date: 'Mar 05'
       items:
         - type: 'Placeholder'
@@ -221,10 +221,10 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Mar 06'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '14'
           name: Nonconjugate Modeling (IV) - Empirical Priors and Density Estimation
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6296735'
 - week: 8
   days:
     - date: 'Mar 11'
