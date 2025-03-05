@@ -215,10 +215,10 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6296713'
     - date: 'Mar 05'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lab'
+          id: '6'
           name: Lab - Bayesian Logistic Regression
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6302778'
     - date: 'Mar 06'
       items:
         - type: 'Lecture'
