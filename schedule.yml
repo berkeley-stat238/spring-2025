@@ -218,7 +218,7 @@
         - type: 'Lab'
           id: '6'
           name: Lab - Bayesian Logistic Regression
-          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab05=6%2FLab_6_tutorial.ipynb&branch=main'
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab06%2FLab_6_tutorial.ipynb&branch=main'
         - type: 'Exercise'
           id: '3'
           name: Quiz 4 Practice
