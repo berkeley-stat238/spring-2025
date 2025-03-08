@@ -229,6 +229,15 @@
           id: '14'
           name: Nonconjugate Modeling (IV) - Empirical Priors and Density Estimation
           href: 'https://edstem.org/us/courses/74615/discussion/6296735'
+        - type: 'Assignment'
+          id: '5'
+          name: Project Mini 5
+          href: 'https://edstem.org/us/courses/74615/discussion/6332141'
+        - type: 'Assignment'
+          id: '6'
+          name: Project Mini 6
+          href: 'https://edstem.org/us/courses/74615/discussion/6332153'
+        
 - week: 8
   days:
     - date: 'Mar 11'
