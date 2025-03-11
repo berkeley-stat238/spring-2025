@@ -266,7 +266,7 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Mar 13'
       items:
-        - type: 'Lecture 16'
+        - type: 'Lecture'
           id: '16'
           name: Computation (II) - Bayesian Point Estimation (II)
           href: 'https://edstem.org/us/courses/74615/discussion/6348014'
