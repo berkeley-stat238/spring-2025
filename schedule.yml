@@ -246,8 +246,8 @@
           id: '15'
           name: Computation (I) - Bayesian Point Estimation (I)
           href: 'https://edstem.org/us/courses/74615/discussion/6348012'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Quiz'
+          id: '4'
           name: Quiz 4 - Non-Conjugate Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Reading'
