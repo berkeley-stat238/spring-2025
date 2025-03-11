@@ -242,18 +242,22 @@
   days:
     - date: 'Mar 11'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '15'
           name: Computation (I) - Bayesian Point Estimation (I)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6348012'
         - type: 'Placeholder'
           id: ' '
           name: Quiz 4 - Non-Conjugate Models
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Reading'
+          id: '8'
           name: Week 8 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6342420'
+        - type: 'Homework'
+          id: '3'
+          name: Homework 3
+          href: 'https://edstem.org/us/courses/74615/discussion/6348007'
     - date: 'Mar 12'
       items:
         - type: 'Placeholder'
@@ -262,10 +266,14 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Mar 13'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture 16'
+          id: '16'
           name: Computation (II) - Bayesian Point Estimation (II)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6348014'
+        - type: 'Assignment'
+          id: '7'
+          name: Project Mini 7
+          href: 'https://edstem.org/us/courses/74615/discussion/6348067'
 - week: 9
   days:
     - date: 'Mar 18'
