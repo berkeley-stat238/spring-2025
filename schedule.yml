@@ -249,7 +249,7 @@
         - type: 'Quiz'
           id: '4'
           name: Quiz 4 - Non-Conjugate Models
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6380573'
         - type: 'Reading'
           id: '8'
           name: Week 8 Reading
@@ -286,10 +286,10 @@
           id: '17'
           name: Computation (III) - Bayesian Point Estimation (III)
           href: 'https://edstem.org/us/courses/74615/discussion/6385075'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Quiz'
+          id: '5'
           name: Quiz 5 - Bayesian Point Estimation
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6361049'
         - type: 'Reading'
           id: '9'
           name: Week 9 Reading
@@ -299,7 +299,7 @@
         - type: 'Lab'
           id: '8'
           name: Lab - Work Session
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6302778'
     - date: 'Mar 20'
       items:
         - type: 'Lecture'
