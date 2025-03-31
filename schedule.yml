@@ -310,14 +310,14 @@
   days:
     - date: 'Apr 01'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '19'
           name: Computation (V) - Sampling (I)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6451363'
+        - type: 'Reading'
+          id: '10'
           name: Week 10 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6451351'
     - date: 'Apr 02'
       items:
         - type: 'Placeholder'
@@ -326,10 +326,10 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Apr 03'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '20'
           name: Computation (VI) - Sampling (II)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6451366'
 - week: 11
   days:
     - date: 'Apr 08'
