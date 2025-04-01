@@ -318,6 +318,11 @@
           id: '10'
           name: Week 10 Reading
           href: 'https://edstem.org/us/courses/74615/discussion/6451351'
+        - type: 'Homework'
+          id: '4'
+          name: Homework 4
+          href: 'https://edstem.org/us/courses/74615/discussion/6455585'
+        
     - date: 'Apr 02'
       items:
         - type: 'Placeholder'
