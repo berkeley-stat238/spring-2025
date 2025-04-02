@@ -329,6 +329,10 @@
           id: '8'
           name: Lab - Sampling (MCMC)
           href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab08%2FLab_8.ipynb&branch=main'
+        - type: 'Exercise'
+          id: '6'
+          name: Quiz 6 Practice
+          href: 'https://edstem.org/us/courses/74615/discussion/6466363'
     - date: 'Apr 03'
       items:
         - type: 'Lecture'
