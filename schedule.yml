@@ -297,7 +297,7 @@
     - date: 'Mar 19'
       items:
         - type: 'Lab'
-          id: '8'
+          id: '7'
           name: Lab - Work Session
           href: 'https://edstem.org/us/courses/74615/discussion/6302778'
     - date: 'Mar 20'
@@ -325,10 +325,10 @@
         
     - date: 'Apr 02'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Lab - Sampling (Metropolis Hastings)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Lab'
+          id: '8'
+          name: Lab - Sampling (MCMC)
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab08%2FLab_8.ipynb&branch=main'
     - date: 'Apr 03'
       items:
         - type: 'Lecture'
