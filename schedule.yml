@@ -339,6 +339,10 @@
           id: '20'
           name: Computation (VI) - Sampling (II)
           href: 'https://edstem.org/us/courses/74615/discussion/6451366'
+        - type: 'Assignment'
+          id: '9'
+          name: Project Mini 8
+          href: 'https://edstem.org/us/courses/74615/discussion/6477964'
 - week: 11
   days:
     - date: 'Apr 08'
