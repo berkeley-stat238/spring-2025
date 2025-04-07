@@ -351,30 +351,30 @@
   days:
     - date: 'Apr 08'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '21'
           name: Computation (VI) - Sampling (III)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6491739'
+        - type: 'Reading'
+          id: '11'
           name: Week 11 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6491721'
+        - type: 'Quiz'
+          id: '6'
           name: Quiz 6 - Sampling (I)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6466363'
     - date: 'Apr 09'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lab'
+          id: '8'
           name: Lab - Work Session
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Apr 10'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '22'
           name: Computation (VI) - Sampling (IV)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6491749'
 - week: 12
   days:
     - date: 'Apr 15'
