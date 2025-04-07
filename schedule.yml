@@ -304,7 +304,7 @@
       items:
         - type: 'Lecture'
           id: '18'
-          name: Computation (IV) - Distribution Approximation (I)
+          name: Computation (IV) - Bayesian Point Estimation (IV)
           href: 'https://edstem.org/us/courses/74615/discussion/6385077'
 - week: 10
   days:
