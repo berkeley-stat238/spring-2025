@@ -369,6 +369,10 @@
           id: '8'
           name: Lab - Work Session
           href: 'https://edstem.org/us/courses/74615/discussion/6463387'
+        - type: 'Exercise'
+          id: '7'
+          name: Quiz 7 Practice
+          href: 'https://edstem.org/us/courses/74615/discussion/6504546'
     - date: 'Apr 10'
       items:
         - type: 'Lecture'
