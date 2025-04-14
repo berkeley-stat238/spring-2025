@@ -383,14 +383,14 @@
   days:
     - date: 'Apr 15'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Computation (VII) - Distribution Approximation (II)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '23'
+          name: Computation (VII) - Distribution Approximation (I)
+          href: 'https://edstem.org/us/courses/74615/discussion/6534019'
+        - type: 'Reading'
+          id: '12'
           name: Week 12 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6534003'
     - date: 'Apr 16'
       items:
         - type: 'Placeholder'
@@ -399,14 +399,14 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
     - date: 'Apr 17'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '24'
           name: Model Checking (I) - Posterior Predictive Checks and Coverage
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6534022'
+        - type: 'Quiz'
+          id: '7'
           name: Quiz 7 - Sampling and Distribution Approximation (II)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6504546'
 - week: 13
   days:
     - date: 'Apr 22'
