@@ -397,15 +397,15 @@
           href: 'https://edstem.org/us/courses/74615/discussion/6537754'
     - date: 'Apr 16'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Lab - Sampling (II)
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Lab'
+          id: '9'
+          name: Lab - Sampling (HMC, Coverage, and PPC)
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab09%2FLab_9.ipynb&branch=main'
     - date: 'Apr 17'
       items:
         - type: 'Lecture'
           id: '24'
-          name: Model Checking (I) - Posterior Predictive Checks and Coverage
+          name: Model Checking (I) - Posterior Summary and Predictive Checking
           href: 'https://edstem.org/us/courses/74615/discussion/6534022'
         - type: 'Quiz'
           id: '7'
@@ -417,7 +417,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Model Checking (II) - Evaluating Errors in Prediction
+          name: Model Checking (II) - Model Comparison
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -433,7 +433,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Model Checking (III) - Empirical Bayes
+          name: Model Checking (III) - Prior Misspecification. Sensitivity Analysis
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
 - week: 14
   days:
@@ -441,7 +441,7 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Model Checking (IV) - Prior Misspecification. Sensitivity Analysis
+          name: Capstone (I) - Variational Inference
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
         - type: 'Placeholder'
           id: ' '
@@ -461,5 +461,5 @@
       items:
         - type: 'Placeholder'
           id: ' '
-          name: Conclusions and Outlook
+          name: Capstone (II) - Ensemble and Rare Event Samplers
           href: 'https://edstem.org/us/courses/74615/discussion/6000838'
