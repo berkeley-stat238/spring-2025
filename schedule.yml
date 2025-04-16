@@ -400,7 +400,7 @@
         - type: 'Lab'
           id: '9'
           name: Lab - Sampling (HMC, Coverage, and PPC)
-          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab09%2FLab_9.ipynb&branch=main'
+          href: 'https://edstem.org/us/courses/74615/discussion/6463387'
     - date: 'Apr 17'
       items:
         - type: 'Lecture'
