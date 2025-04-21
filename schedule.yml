@@ -405,7 +405,7 @@
       items:
         - type: 'Lecture'
           id: '24'
-          name: Model Checking (I) - Posterior Summary and Predictive Checking
+          name: Model Checking (I) - Density Estimation and Coverage Checks
           href: 'https://edstem.org/us/courses/74615/discussion/6534022'
         - type: 'Quiz'
           id: '7'
@@ -417,7 +417,7 @@
       items:
         - type: 'Lecture'
           id: '25'
-          name: Model Checking (II) - Model Comparison
+          name: Model Checking (II) - Posterior Summary and Posterior Predictive Checks
           href: 'https://edstem.org/us/courses/74615/discussion/6575892'
         - type: 'Reading'
           id: '13'
