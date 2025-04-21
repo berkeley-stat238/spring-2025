@@ -415,26 +415,26 @@
   days:
     - date: 'Apr 22'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '25'
           name: Model Checking (II) - Model Comparison
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+          href: 'https://edstem.org/us/courses/74615/discussion/6575892'
+        - type: 'Reading'
+          id: '13'
           name: Week 13 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6575911'
     - date: 'Apr 23'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lab'
+          id: '9'
           name: Lab - Work Session
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat238%2Fspring-2025&urlpath=tree%2Fspring-2025%2Flabs%2Flab09%2FLab_9.ipynb&branch=main'
     - date: 'Apr 24'
       items:
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '26'
           name: Model Checking (III) - Prior Misspecification. Sensitivity Analysis
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6575893'
 - week: 14
   days:
     - date: 'Apr 29'
