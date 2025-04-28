@@ -439,27 +439,27 @@
   days:
     - date: 'Apr 29'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Capstone (I) - Variational Inference
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
-          name: Week 13 Reading
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
-        - type: 'Placeholder'
-          id: ' '
+        - type: 'Lecture'
+          id: '27'
+          name: Capstone (I) - Ensemble and Rare Event Samplers 
+          href: 'https://edstem.org/us/courses/74615/discussion/6621384'
+        - type: 'Reading'
+          id: '14'
+          name: Week 14 Reading
+          href: 'https://edstem.org/us/courses/74615/discussion/6621431'
+        - type: 'Quiz'
+          id: '8'
           name: Quiz 8 - Model Checking
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+          href: 'https://edstem.org/us/courses/74615/discussion/6588471'
     - date: 'Apr 30'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Lab - Model Checking
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Lab'
+          id: '9'
+          name: Lab - Work Session
+          href: 'https://edstem.org/us/courses/74615/discussion/6547388'
     - date: 'May 01'
       items:
-        - type: 'Placeholder'
-          id: ' '
-          name: Capstone (II) - Ensemble and Rare Event Samplers
-          href: 'https://edstem.org/us/courses/74615/discussion/6000838'
+        - type: 'Lecture'
+          id: '28'
+          name: Capstone (II) - Variational Inference
+          href: 'https://edstem.org/us/courses/74615/discussion/6621388'

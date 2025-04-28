@@ -43,7 +43,7 @@ subtitle: "UC Berkeley, Spring 2025"
 
 ::::
 
-:::{attention} Welcome to [Week 13](#week13) of Stat 238!
+:::{attention} Welcome to [Week 14](#week14) of Stat 238!
 :class: dropdown
 :icon: false
 👋
