@@ -457,6 +457,10 @@
           id: '9'
           name: Lab - Work Session
           href: 'https://edstem.org/us/courses/74615/discussion/6547388'
+        - type: 'Assignment'
+          id: '10'
+          name: Project Mini 10
+          href: 'https://edstem.org/us/courses/74615/discussion/6624615'
     - date: 'May 01'
       items:
         - type: 'Lecture'
