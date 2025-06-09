@@ -26,6 +26,7 @@ site:
   template: book-theme
   title: 'Stat 238'
   options:
+    analytics_google: 'G-7QS27GF2H3'
     logo: 'stat_bear.png'
   nav: []
   actions:
